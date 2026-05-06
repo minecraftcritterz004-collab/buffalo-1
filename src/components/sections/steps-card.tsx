@@ -30,7 +30,7 @@ const StepsCard = () => {
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            'linear-gradient(135deg, rgba(255,204,24,0.18), rgba(255,255,255,0.12)), url(\'/aerie-background.jpeg\')',
+            "linear-gradient(135deg, rgba(255,204,24,0.18), rgba(255,255,255,0.12)), url('https://i.imgur.com/yXzCZA5.jpeg')",
           opacity: 0.18,
         }}
       />
